@@ -1,2 +1,2 @@
 # owned-corpora-word2vec-ja
-how to train the word2vec model on your own corpora
+how to train the word2vec model on your own Japanese corpora
