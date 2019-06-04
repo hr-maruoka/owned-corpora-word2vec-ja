@@ -1,0 +1,1 @@
+# owned-corpora-word2vec-ja
